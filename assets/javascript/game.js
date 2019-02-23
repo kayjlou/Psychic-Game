@@ -54,7 +54,7 @@ document.onkeyup = function(event) {
   //  Numbers update when key is pressed
 
   var html =
-    "<h1>Psychic Game</h1>" +
+    //"<h1>Psychic Game</h1>" +
     "<h3>Guess what letter I'm thinking</h3>" +
     "<p>Wins: " +
     wins +
